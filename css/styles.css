@@ -1,5 +1,5 @@
 h2{
-  background-color: blue;
+  background-color: white;
   text-align: center;
   font-size: 40px;
   padding-top: 40px;
@@ -8,5 +8,10 @@ h2{
 
 h1{
   text-align: center;
-  color: red;
+  color:ffffff;
+}
+
+body{
+  background-image: url("beach.jpg");
+  background-size: cover;
 }
